@@ -3,7 +3,7 @@
     <div class="content">
 
       <div class="scroll-large">
-        <img itemprop="image" id="scroll-large-img" src="/static/images/scrollmainfix.jpg" />
+        <img itemprop="image" id="scroll-large-img" src="./assets/scrollmainfix.jpg" />
 
         <div class="home-right">
           <h3>Created by a journeyman classical bassist with a second life as a mechanical engineer and designer, Bass Capos have proven reliable for over fifteen years.</h3>

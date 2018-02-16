@@ -48,14 +48,6 @@ export default {
   name: 'App'
 }
 </script>
-<!--[if IE]>
-<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="scripts/responsiveslides.min.js"></script>
-<script src="scripts/responsive-nav.js"></script>
-<script type="text/javascript" src="//use.typekit.net/dkv3nlc.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 <style>
 #app {
