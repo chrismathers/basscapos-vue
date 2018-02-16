@@ -137,12 +137,14 @@ P {
 img {
   border: 1px solid #ccc;
   margin: 0; }
+/*
 
 a.arrow {
   border: 0;
   margin: 0;
   padding: 0 20px 0 0;
-  background: url(../static/images/more.png) no-repeat 100% 0; }
+  background: url(./assets/more.png) no-repeat 100% 0; }
+*/
 
 h1 {
   font: bold 17px Arial, Helvetica, sans-serif;
@@ -736,7 +738,7 @@ footer .blue p a {
   width: 33px;
   height: 38px;
   text-indent: -9999px;
-  background: url("../static/images/sprite3.png"); }
+  background: url("./assets/sprite3.png"); }
 #follow-list li a#follow-lnkd {
   background-position: 0 0; }
 #follow-list li a#follow-twtr {

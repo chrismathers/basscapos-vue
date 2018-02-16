@@ -1,16 +1,17 @@
 <template>
   <div id="container">
+
     <div class="content robpin">
       <h2>The RobPin<hr/></h2>
       <ul class="rslides">
-        <li itemprop="image" style="background-image: url(/static/images/robpin/robpin10a-min.jpg)"></li>
-        <li itemprop="image" style="background-image: url(/static/images/robpin/robpin1-min.jpg)"></li>
-        <li itemprop="image" style="background-image: url(/static/images/robpin/robpin7a-min.jpg)"></li>
-        <!--<li itemprop="image" style="background-image: url(/static/images/robpin/robpin9.jpg)"></li>-->
-        <li itemprop="image" style="background-image: url(/static/images/robpin/robpin2-min.jpg)"></li>
-        <li itemprop="image" style="background-image: url(/static/images/robpin/robpin8a-min.jpg)"></li>
-        <li itemprop="image" style="background-image: url(/static/images/robpin/robpin3-min.jpg)"></li>
-        <!--<li itemprop="image" style="background-image: url(/static/images/robpin/robpin6.jpg)"></li>-->
+        <li itemprop="image" style="background-image: url(./assets/robpin/robpin10a-min.jpg)"></li>
+        <li itemprop="image" style="background-image: url(./assets/robpin/robpin1-min.jpg)"></li>
+        <li itemprop="image" style="background-image: url(./assets/robpin/robpin7a-min.jpg)"></li>
+        <!--<li itemprop="image" style="background-image: url(./assets/robpin/robpin9.jpg)"></li>-->
+        <li itemprop="image" style="background-image: url(./assets/robpin/robpin2-min.jpg)"></li>
+        <li itemprop="image" style="background-image: url(./assets/robpin/robpin8a-min.jpg)"></li>
+        <li itemprop="image" style="background-image: url(./assets/robpin/robpin3-min.jpg)"></li>
+        <!--<li itemprop="image" style="background-image: url(./assets/robpin/robpin6.jpg)"></li>-->
       </ul></br>
       <p>The biggest innovation of the RobPin is the "Bottom Block Rest" which takes on most of the bass's weight. This eliminates most of the typical stresses on the socket, bottom block, and pin.</p>
       <h2 class="bold">Use:</h2>
@@ -23,22 +24,22 @@
       <div class="content other">
         <h2>Bass Clamps<hr/></h2>
         <div class="clamps">
-          <img src="/static/images/clamp/clamp-full.jpg" />
+          <img src="./assets/clamp/clamp-full.jpg" />
           <div class="flex-box">
             <ul class="rslides">
-              <li itemprop="image" style="background-image: url(/static/images/clamp/clamp-bottom.jpg)"></li>
-              <li itemprop="image" style="background-image: url(/static/images/clamp/clamp-onbass.jpg)"></li>
+              <li itemprop="image" style="background-image: url(./assets/clamp/clamp-bottom.jpg)"></li>
+              <li itemprop="image" style="background-image: url(./assets/clamp/clamp-onbass.jpg)"></li>
             </ul>
             <ul class="rslides">
-              <li itemprop="image" style="background-image: url(/static/images/clamp/clamp.jpg)"></li>
-              <li itemprop="image" style="background-image: url(/static/images/clamp/clamp-handle.jpg)"></li>
+              <li itemprop="image" style="background-image: url(./assets/clamp/clamp.jpg)"></li>
+              <li itemprop="image" style="background-image: url(./assets/clamp/clamp-handle.jpg)"></li>
             </ul>
 
             <div class="mobile">
-              <img src="/static/images/clamp/clamp-bottom.jpg" />
-              <img src="/static/images/clamp/clamp-onbass.jpg" />
-              <img src="/static/images/clamp/clamp.jpg" />
-              <img src="/static/images/clamp/clamp-handle.jpg" />
+              <img src="./assets/clamp/clamp-bottom.jpg" />
+              <img src="./assets/clamp/clamp-onbass.jpg" />
+              <img src="./assets/clamp/clamp.jpg" />
+              <img src="./assets/clamp/clamp-handle.jpg" />
             </div>
 
           </div>
@@ -54,14 +55,14 @@
     <div class="content other">
       <div>
         <h2>C Extension Pulleys<hr/></h2>
-        <img src="/static/images/pulmains.jpg" />
+        <img src="./assets/pulmains.jpg" />
         <p>I now make two pulleys especially for extension builders. They use an Igus&trade; plastic sleeve bearing which has a 350 lb. static load rating. The large pulley is 22mm O.D. x 5mm width (~7/8"x3/16") The smaller pulley is 1/2" (12.7mm) O.D. and is intended as a secondary for multi-pulley designs. The included shaft is 1/4 inch (6.35mm). Inch drills are available from me for metric countries.</p>
 
-        <img src="/static/images/drilling003.jpg" />
+        <img src="./assets/drilling003.jpg" />
         <p>A feature of the small pulley is that it can be installed from the side. You can bore a 1/2" or 13mm hole partway into the extension body and then a 1/4" (6.3mm) hole through to the other side, and cap it with a brass spacer. If you want to do this make sure to ask for the spacer and an untrimmed sleeve.</p>
         <p>Previously I offered a 1"x3/16" sealed bearing pulley. This is still available, but I recommend the new pulleys which are cheaper and better suited to the application.</p>
 
-        <img src="/static/images/oldpulleys.jpg" />
+        <img src="./assets/oldpulleys.jpg" />
         <p>All pulleys work for strings up to 1/8" diameter. This includes almost all Long Es except Oliv, Labella, or most Nylon tape wound strings. If you want to use a thicker string, I can adjust the groove radius to your spec. I can even make up a custom pulley, if you want different dimensions. Custom pulleys are available with either the Igus&trade; sleeve bearing or a sealed ball bearing.</p>
       </div>
     </div>
@@ -70,14 +71,14 @@
     <div class="blue">
       <div class="content">
         <h2>Titanium Endpin<hr/></h2>
-        <img src="/static/images/endpins72.jpg" />
+        <img src="./assets/endpins72.jpg" />
         <p>Commercially pure Grade 2 Ti.  Diameter is 3/8" (9.5mm) in lengths from 20-30 cm. Fits to most standard sockets. About half the weight of a steel endpin and much harder. Ground finish eliminates the need for notches. Pin includes a friction fit (no rattle) 7/8" diameter. Delrin plug with two extra rubber crutch tips in white or black. A threaded end can also be ordered for use with standard rubber tips.</p>
       </div>
     </div>
 
     <div class="content">
       <h2>Tailpiece Wire / Clamp<hr/></h2>
-      <img src="/static/images/clamp72.jpg" />
+      <img src="./assets/clamp72.jpg" />
       <p>This cable/clamp system has been designed to maximize flexibility and strength while minimizing bulk and weight. The cable is 133 strand 1/16" (1.6mm) super-flexible stainless aircraft cable with a nylon coating.  Break strength is 480lb. (218kg). Typical installed weight is 10 grams. The aluminum collar is 3/8" (9.5mm) diameter. A 1/2" (12.5mm) collar is also available for cables up to 3/32" (2.5mm).  </p>
     </div>
   </div>

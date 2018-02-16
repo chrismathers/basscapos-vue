@@ -2,14 +2,14 @@
   <div id="container">
     <div class="content">
 
-      <img class="full-width-image" src="/static/images/installtop-72.jpg" />
+      <img class="full-width-image" src="./assets/installtop-72.jpg" />
       <h2>Capo:<hr/></h2>
 
       <div class="text-group-left">
-        <img class="cutdown right" src="/static/images/cutdown60.jpg" />
+        <img class="cutdown right" src="./assets/cutdown60.jpg" />
         <p>For a proper fit, the side of the extension must provide a flat area in the mounting position 1-1/4" long by 1/2" high (32x13mm) high. Once the proper position for the yoke is determined, drill the pilot holes, spaced 15/16" (24mm) apart. Adjust the number of turns of the arm into the yoke until it looks like the right height, and attach to the extension. See where it closes, and adjust as necessary.</p>
-        <img class="cutdown-mid right" src="/static/images/cutdown60.jpg" />
-        <img class="pilotholes" src="/static/images/pilotholes40.jpg" />
+        <img class="cutdown-mid right" src="./assets/cutdown60.jpg" />
+        <img class="pilotholes" src="./assets/pilotholes40.jpg" />
         <p>The supplied screws are # 6 gold-plated stainless steel. They are spec'd for strength, and the geometry allows for maximum adjustability. Use of other screws is discouraged. Please use a fresh, high quality, #2 Phillips driver. Other types such as Pozidrive will strip the screw head and make for headaches and some interesting curses. So please be careful during this procedure!</p>
         <p>When installing a Capo or E-Stop it is sometimes necessary to cut the threaded stud to length. All parts are made from free machining brass, and can easily be cut/ground/sanded/polished to fit a particular installation. Besides the stud, there are also instances when the yoke itself must be altered. Some extensions are too thin under the Eb to accommodate the full footprint. The yoke contains enough bulk that it can be ground substantially and still retain adequate strength.</p>
         <hr />
@@ -23,14 +23,14 @@
         </div>
         <div class="right-div">
           <p>Another issue is the angle of the Capo finger over the extension surface. Some installers fret if they see that it does not lie tangentially over the extension fingerboard. In other words, the finger appears to have too little rake. This is intentional, as the reduced angle decreases string deflection when closing the Capo. In cases of extreme fingerboard radius where the finger would contact the wood before full closure, a rake can be ground into the foot of the Capo yoke. There is enough bulk there to allow for a cut of up to about 10&deg;. For the E-Stop finger, it can simply be bent in a vise to increase the rake. Do not try to bend a Capo finger however.</p>
-          <img src="/static/images/grind3a.jpg" />
+          <img src="./assets/grind3a.jpg" />
         </div>
       </div>
     </div>
 
     <div class="blue">
       <div class="content">
-        <img class="full-width-image" src="/static/images/install-bottom-chris.jpg" />
+        <img class="full-width-image" src="./assets/install-bottom-chris.jpg" />
       </div>
     </div>
 
@@ -44,13 +44,13 @@
           <p>The rotational resistance for the Capo is "set at the factory"  if you will. For the E-Stop it can be adjusted by the player via a set screw using a supplied hex key.</p>
         </div>
         <div class="right-div">
-          <img src="/static/images/EBottom40.jpg" />
+          <img src="./assets/EBottom40.jpg" />
         </div>
       </div>
 
       <div id="estop-mid">
         <div class="left-div">
-          <img src="/static/images/estop1.jpg" />
+          <img src="./assets/estop1.jpg" />
         </div>
         <div class="right-div">
           <p>Not all installers do this, but the E-Stop can be used as a mounting point for the extension body.</p>
@@ -67,14 +67,14 @@
             <p>One other note: Some installers have informed me that operation is better if the finger is set to close a few degrees less than perpendicular to the string &ndash; pointing slightly up.</p>
             <p>Also, a few customers have chosen to use my mounts, but make their own wooden fingers. For this I can ship yokes or E-Stop plates with lengths of plain threaded stud instead of finished arms.</p>
           </div>
-          <img src="/static/images/wolfangle.jpg" />
+          <img src="./assets/wolfangle.jpg" />
         </div>
       </div>
     </div>
 
     <div class="content">
       <div id="warranty">
-        <img src="/static/images/scroll1.png" />
+        <img src="./assets/scroll1.png" />
         <h2>Warranty:<hr/></h2>
         <ul>
           <li>Uninstalled units can be returned for full refund within six months.</li>
@@ -186,7 +186,7 @@
   #capo-bottom .left-div {
     width: 41%;
     min-height: 363px;
-    background: url(/static/images/tangent40.jpg) no-repeat 54% 59%;
+    background: url(./assets/tangent40.jpg) no-repeat 54% 59%;
     background-size: 79%;
     background-color: #c9b679; }
   @media only screen and (max-width: 1024px) {

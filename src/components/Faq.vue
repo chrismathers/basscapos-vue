@@ -2,7 +2,7 @@
   <div class="content faq">
 
     <div class="faqlist">
-      <img src="/static/images/Csharp1270.jpg">
+      <img src="./assets/Csharp1270.jpg">
       <h2>Frequently Asked Questions<hr/></h2>
 
       <p class="q">Question: Is this a "kit", and does it have everything I need?</p>

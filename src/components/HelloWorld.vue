@@ -12,7 +12,7 @@
           <div id="rslides-div">
             <ul class="rslides">
               <li class="capo0">
-                <img itemprop="image" src="/static/images/estop.jpg" />
+                <img itemprop="image" src="./assets/estop.jpg" />
                 <div>Easy to install</div>
               </li>
             </ul>

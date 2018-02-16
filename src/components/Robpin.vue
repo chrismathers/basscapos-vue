@@ -3,15 +3,15 @@
     <h2>The RobPin<hr/></h2>
     <p>The biggest innovation of the RobPin is the "Bottom Block Rest" which takes on most of the bass's weight. This eliminates most of the typical stresses on the socket, bottom block, and pin.</p>
     <div class="flex-box">
-      <img itemprop="image" src="/static/images/robpin/robpin10a-min.jpg" />
-      <img itemprop="image" src="/static/images/robpin/robpin1-min.jpg" />
-      <img itemprop="image" src="/static/images/robpin/robpin7a-min.jpg" />
+      <img itemprop="image" src="./assets/robpin/robpin10a-min.jpg" />
+      <img itemprop="image" src="./assets/robpin/robpin1-min.jpg" />
+      <img itemprop="image" src="./assets/robpin/robpin7a-min.jpg" />
       <div style="width: 100%; height: auto; margin: 34px 0">
 
       </div>
-      <img itemprop="image" src="/static/images/robpin/robpin2-min.jpg" />
-      <img itemprop="image" src="/static/images/robpin/robpin3-min.jpg" />
-      <img itemprop="image" src="/static/images/robpin/robpin8a-min.jpg" />
+      <img itemprop="image" src="./assets/robpin/robpin2-min.jpg" />
+      <img itemprop="image" src="./assets/robpin/robpin3-min.jpg" />
+      <img itemprop="image" src="./assets/robpin/robpin8a-min.jpg" />
 
     </div></br>
     <h2 class="bold">Use:</h2>
