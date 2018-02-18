@@ -198,7 +198,7 @@
   }
 </script>
 
-<style>
+<style scoped>
   .blue {
     width: 100%; }
   .blue #follow-list {

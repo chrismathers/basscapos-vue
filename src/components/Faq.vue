@@ -52,7 +52,7 @@
   }
 </script>
 
-<style>
+<style scoped>
   .content.faq {
     min-width: inherit;
     text-align: left;

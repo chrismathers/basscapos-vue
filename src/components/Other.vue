@@ -95,7 +95,7 @@
   }
 </script>
 
-<style>
+<style scoped>
   .rslides {
     position: relative;
     list-style: none;
