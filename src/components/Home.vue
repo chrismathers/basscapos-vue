@@ -4,7 +4,6 @@
 
       <div class="scroll-large">
         <img itemprop="image" id="scroll-large-img" src="./assets/scrollmainfix.jpg" />
-
         <div class="home-right">
           <h3>Created by a journeyman classical bassist with a second life as a mechanical engineer and designer, Bass Capos have proven reliable for over fifteen years.</h3>
           <p itemprop="description">Bass Capos are an excellent choice for any bass player using or looking to implement a double bass extension. Easy to install and adjust, cheaper and more reliable than hand-built latches, also lighter and quicker in operation. What are you waiting for?</p>
@@ -17,7 +16,6 @@
               </li>
             </ul>
           </div>
-
           <div class="text-group">
             <p>Bass Capos are not only a welcome component to new extension builds, but also an easy retrofit to most existing extensions, including keyed extensions. There are limitations of course &ndash; check the installation page.</p>
             <p>Bass Capos are currently being used by double bassists in about 20 countries. Major Orchestras include the New York Philharmonic, Metropolitan Opera Orchestra (New York), Boston Symphony, Tonhalle Orchestra of Zurich, Royal Stockholm Philharmonic, National Symphony (USA), Wiener Symphoniker, The City of Birmingham Orchestra, and jazz bassists around the world.</p>
