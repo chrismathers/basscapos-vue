@@ -4,14 +4,12 @@
     <div class="content robpin">
       <h2>The RobPin<hr/></h2>
       <ul class="rslides">
-        <li itemprop="image" style="background-image: url(./assets/robpin/robpin10a-min.jpg)"></li>
-        <li itemprop="image" style="background-image: url(./assets/robpin/robpin1-min.jpg)"></li>
-        <li itemprop="image" style="background-image: url(./assets/robpin/robpin7a-min.jpg)"></li>
-        <!--<li itemprop="image" style="background-image: url(./assets/robpin/robpin9.jpg)"></li>-->
-        <li itemprop="image" style="background-image: url(./assets/robpin/robpin2-min.jpg)"></li>
-        <li itemprop="image" style="background-image: url(./assets/robpin/robpin8a-min.jpg)"></li>
-        <li itemprop="image" style="background-image: url(./assets/robpin/robpin3-min.jpg)"></li>
-        <!--<li itemprop="image" style="background-image: url(./assets/robpin/robpin6.jpg)"></li>-->
+        <li itemprop="image" :style="{ backgroundImage: `url('./static/images/robpin/robpin10a-min.jpg')` }"></li>
+        <li itemprop="image" :style="{ backgroundImage: `url('./static/images/robpin/robpin1-min.jpg')` }"></li>
+        <li itemprop="image" :style="{ backgroundImage: `url('./static/images/robpin/robpin7a-min.jpg')` }"></li>
+        <li itemprop="image" :style="{ backgroundImage: `url('./static/images/robpin/robpin2-min.jpg')` }"></li>
+        <li itemprop="image" :style="{ backgroundImage: `url('./static/images/robpin/robpin8a-min.jpg')` }"></li>
+        <li itemprop="image" :style="{ backgroundImage: `url('./static/images/robpin/robpin3a-min.jpg')` }"></li>
       </ul></br>
       <p>The biggest innovation of the RobPin is the "Bottom Block Rest" which takes on most of the bass's weight. This eliminates most of the typical stresses on the socket, bottom block, and pin.</p>
       <h2 class="bold">Use:</h2>
@@ -27,12 +25,12 @@
           <img src="./assets/clamp/clamp-full.jpg" />
           <div class="flex-box">
             <ul class="rslides">
-              <li itemprop="image" style="background-image: url(./assets/clamp/clamp-bottom.jpg)"></li>
-              <li itemprop="image" style="background-image: url(./assets/clamp/clamp-onbass.jpg)"></li>
+              <li itemprop="image" :style="{ backgroundImage: `url('./static/images/clamp/clamp-bottom.jpg')` }"></li>
+              <li itemprop="image" :style="{ backgroundImage: `url('./static/images/clamp/clamp-onbass.jpg')` }"></li>
             </ul>
             <ul class="rslides">
-              <li itemprop="image" style="background-image: url(./assets/clamp/clamp.jpg)"></li>
-              <li itemprop="image" style="background-image: url(./assets/clamp/clamp-handle.jpg)"></li>
+              <li itemprop="image" :style="{ backgroundImage: `url('./static/images/clamp/clamp.jpg')` }"></li>
+              <li itemprop="image" :style="{ backgroundImage: `url('./static/images/clamp/clamp-handle.jpg')` }"></li>
             </ul>
 
             <div class="mobile">
